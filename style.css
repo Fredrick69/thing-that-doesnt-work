@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 24px;
+    width: 100%;
+    margin-top: 0;
+}
+
+.footer{
+    bottom: 0px;
+    width: 100%;
+    color: blanchedalmond;
+    background-color: lightslategrey;
+    position: fixed;
+    line-height: 3;
+}
+
+canvas{
+    margin-top: 30px;
+    border-radius: 40px;
+    box-shadow: 5px 10px 6px beige;
+}
